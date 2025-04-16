@@ -1,4 +1,4 @@
-=== server/index.js ===
+
 
 // Jednoduchý WebSocket server pomocí socket.io a express
 const express = require('express');
